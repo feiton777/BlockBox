@@ -1,0 +1,33 @@
+This template is for saving data on the Symbol blockchain.
+It allows for basic tasks such as creating accounts, sending transactions, generating mosaics (tokens), and writing data.
+You can also use this template for other applications.
+
+The demo scene is available below, so please try playing around with it first.
+Assets>Symbol>Scenes>DemoScene
+
+Since UniTask is used, please install UniTask before use.
+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+
+There are two types of blockchains: a testnet for development and a mainnet for production.
+The UseNetwork variable in SymbolGameManager.cs allows you to set whether to use the testnet or mainnet,
+so please switch between them as appropriate.
+
+The fauset site for XYM (Symbol's base currency) for the testnet is below, so please download it and use it for development.
+https://testnet.symbol.tools/
+
+The address to send fees when saving data to a mosaic is defined in the ReceiveAccount parameter in SymbolGameManager.cs.
+Please modify it as necessary.
+
+Other References
+
+The following site provides sample code using the Symbol blockchain in C#.
+https://github.com/0x070696E65/symbol_sdk/blob/main/sdk/csharp/quick_learning_symbol_csharp/01_introduction.md
+
+Symbol's official website is here:
+https://docs.symbol.dev/ja/index.html
+
+The Symbol Blockchain GitHub page is here:
+https://github.com/symbol/symbol/blob/dev/docs/index.md
+
+The Symbol Blockchain community page is here:
+https://symbol-community.com/ja

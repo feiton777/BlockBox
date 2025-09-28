@@ -10,5 +10,5 @@ https://t.sakia.harvestasya.com:3001
 https://testnet2.symbol-mikun.net:3001
 https://5t.dusanjp.com:3001
 https://sym-test-01.opening-line.jp:3001
-https://symbol-azure.0009.co:3001
 https://sym-test-03.opening-line.jp:3001
+https://symbol-azure.0009.co:3001

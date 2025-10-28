@@ -377,5 +377,5 @@ https://xym91.allnodes.me:3001
 https://0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-2.tokyo-node.jp:3001
 https://den-emon.net:3001
 https://xym842.allnodes.me:3001
-https://symbol.mine.nu:3001
 https://01.symbol-node.com:3001
+https://symbol.mine.nu:3001
